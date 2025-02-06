@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a PhD graduate from University of Toronto with a focus on machine learning and data analytics. My primary expertise includes:
+I am a PhD graduate from University of Toronto with a focus on Machine Learning and Data Analytics. My primary expertise includes:
 - Writing SQL Queries
 - Data Exploration and Transformation using Excel and PowerQuery
 - Data Preprocessing and Normalization using Pandas, Numpy and Scikit-Learn
