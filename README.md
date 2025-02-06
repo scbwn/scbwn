@@ -30,4 +30,5 @@ I am a PhD graduate from University of Toronto with a focus on Machine Learning 
 This is my GitHub portfolio where I have showcased some of my projects.
 
 ### Get in touch
+Please feel free to reach out to me via LinkedIn!
 - [Linkedin](https://www.linkedin.com/in/sayantan-chowdhury-90ab39286/)
