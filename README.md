@@ -27,7 +27,7 @@ I am a PhD graduate from University of Toronto with a focus on machine learning 
 - Familiarity with Docker and Containerization
 
 ### Projects 
-This is my GitHub portfolio where I have documented some of my projects.
+This is my GitHub portfolio where I have showcased some of my projects.
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/sayantan-chowdhury-90ab39286/)
